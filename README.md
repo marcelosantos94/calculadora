@@ -20,8 +20,8 @@ chmod +x calculadora.sh
 **Pré-requisitos**
 
 . Linux ou WSL (no Windows)
-.Terminal bash
-.O utilitário bc instalado
+/ Terminal bash
+/ O utilitário bc instalado
 
 **Para instalar o bc, use**:
 
